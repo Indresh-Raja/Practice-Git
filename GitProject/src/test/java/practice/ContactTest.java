@@ -10,6 +10,5 @@ public class ContactTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demowebshop.tricentis.com/");
 		System.out.println("execute createContactTest");
-		System.out.println("execute createContactTest");
 	}
 }
